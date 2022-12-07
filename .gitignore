@@ -1,0 +1,3 @@
+#ignorer les fichiers en lien avec bootstrap(CSS et JS)
+/node_modules
+
